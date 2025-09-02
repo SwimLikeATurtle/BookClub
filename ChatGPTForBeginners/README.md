@@ -1,4 +1,4 @@
-# ChatGPT Knowledge for Beginners
+# ChatGPT for Beginners
 비전공자도 이해할 수 있는 챗GPT / 박상길
 
 ## Contents
