@@ -1,10 +1,16 @@
 ## Chapter 9
 **시작의 기술 1 ‘I am willing.’**
+
 **시작의 기술 2 ‘I am wired to win.’**
+
 **시작의 기술 3 ‘I got this.’**
+
 **시작의 기술 4 ‘I embrace the uncertainty.’**
+
 **시작의 기술 5 ‘I am not my thoughts, I am what I do.’**
+
 **시작의 기술 6 ‘I am relentless.’**
+
 **시작의 기술 7 ‘I expect nothing and accept everything.’**
 
 - p.208 세상의 모든 명상, 계획과 항불안제도 당신의 삶을 개선해줄 수는 없다. 당신의 삶이 달라지기를 바란다면 당신이 그렇게 만들어야 한다. 상황을 개선하는데 긍정적 생각 하나에만 매달릴 수도 없다. 밖으로 나가서 행동해야 한다.
