@@ -12,4 +12,5 @@
 | 1 | 비전공자도 이해할 수 있는 AI 지식 | 박상길 | 2025-07-12 ~ 2025-09-02 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162543931.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/AIForBeginners) |
 | 2 | 비전공자도 이해할 수 있는 챗GPT | 박상길 | 2025-09-03 ~ 2025-12-31 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162544211.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/ChatGPTForBeginners) |
 | 3 | 시작의 기술 | 개리 비숍 | 2026-01-02 ~ 2026-01-28 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788901297828.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/Unfu*kYourself) |
-| 4 | 인스파이어드(Inspired) | 마티 케이건 | 2026-01-29 ~ | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188621484.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/Inspired) |
+| 4 | 인스파이어드(Inspired) | 마티 케이건 | 2026-01-29 ~ 2026-02-25 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188621484.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/Inspired) |
+| 5 | 마침내 특이점이 시작된다 | 레이 커즈와일 | 2026-02-26 ~ | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162544259.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/TheSingularityIsNearer) |
