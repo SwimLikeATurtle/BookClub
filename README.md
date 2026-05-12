@@ -14,4 +14,5 @@
 | 3 | 시작의 기술 | 개리 비숍 | 2026-01-02 ~ 2026-01-28 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788901297828.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/Unfu*kYourself) |
 | 4 | 인스파이어드(Inspired) | 마티 케이건 | 2026-01-29 ~ 2026-02-25 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188621484.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/Inspired) |
 | 5 | 마침내 특이점이 시작된다 | 레이 커즈와일 | 2026-02-26 ~ 2026-04-15 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162544259.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/TheSingularityIsNearer) |
-| 6 | 프로젝트 헤일메리 | 앤디 위어 | 2026-04-16 ~  | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788925588735.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/ProjectHailMary) |
+| 6 | ~~프로젝트 헤일메리~~ | ~~앤디 위어~~ | ~~2026-04-16~~  | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788925588735.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/ProjectHailMary) |
+| 7 | 아주 작은 습관의 힘 | 제임스 클리어 | 2026-05-07 ~  | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162540640.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/AtomicHabits) |
