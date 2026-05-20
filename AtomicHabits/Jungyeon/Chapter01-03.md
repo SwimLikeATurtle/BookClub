@@ -27,7 +27,6 @@
 	- The more you repeat a behavior, the more you reinforce the identity associated with that behavior.
 - Habits are the path to changing your identity
 	- e.g. Each time you workout, you are an athlete
-	- 
 - Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
 - The real reason habits matter is not because they can get you better results (altho they can do that), but because they can change your beliefs about yourself.
 
@@ -36,10 +35,10 @@
 - Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly.
 - Habits are only making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
 - Any habit can be broken down into a feedback loop that involves four steps : cue, craving, response, and reward.
-- The four laws of Behavior Change are a simple set of rules we can use to build better habits:
-(1) Make it obvious
-(2) Make it attractive
-(3) Make it easy
+- The four laws of Behavior Change are a simple set of rules we can use to build better habits:  
+(1) Make it obvious  
+(2) Make it attractive  
+(3) Make it easy  
 (4) Make it satisfying
 
 #### ***comments***
