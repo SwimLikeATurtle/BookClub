@@ -103,13 +103,13 @@
 
 
 #### ***comments***
-- p.9 Our surroundings are old: only computers and communications have improved dramatically since midcentury. 새삼 되돌아보면 근래의 기술 발전이 느렸다는게 느껴진다.
+- p.9 Our surroundings are old: only computers and communications have improved dramatically since midcentury. 레이커즈와일 책에서도 나왔던 내용. 새삼 되돌아보면 근래의 기술 발전이 느렸다는게 느껴진다.
 - p.18 당시 버블이 꺼질지 어떻게 알았지? 그리고 페이팔에 돈 보낸 한국 투자사는 어딘지 궁금 ㅎㅎ
-- p.22 AI 시대가 도래한 현재가 티엘이 말하는 1999년대 시장의 비이성적과열과 비슷하다고 느낌
+- p.22 AI 시대가 도래한 현재가 틸이 말하는 1999년대 시장의 비이성적과열과 비슷하다고 느낌
 - p.31 책에서 나온 프랑스의 전설적인 셰프 베르나르 루아조는 라따뚜이의 오귀스트 구스토 캐릭터의 모티브였음
 - p.42 Oracle vs Siebel 유치하다 유치해
 - p.42 PayPal과 X.com은 적에서 가족이 된건데 합병 후 조직 문화 측면에서도 어려움이 많았을 것 같다.
 
 #### ***food for thought***
 - What important truth do very few ppl agree with you on?
-    - 인터뷰 때 틸이 이 질문 꼭한다는 부분이 인상적이었는데 누가 이렇게 물어본다면 뭐라고 대답할 것 같나요?
+    - 인터뷰 때 틸이 이 질문을 꼭한다는 부분이 인상적이었는데 누가 이렇게 물어본다면 뭐라고 대답할 것 같나요?
