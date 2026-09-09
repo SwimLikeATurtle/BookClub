@@ -1,6 +1,6 @@
 ### BEST STORY WINS : Stories are always more powerful than statistics
 - The best story wins. Not the best idea or the right idea or the most rational idea. 
-- People are busy and emotional, and a good story is always more powerful and persuasive than statistics
+	- People are busy and emotional, and a good story is always more powerful and persuasive than statistics
 - Good stories have extraordinary ability to inspire and evoke positive emotions, bringing insight and attention to topics that people tend to ignore when they’ve previously been presented with nothing but facts.
 - Even within a good story, a powerful phrase or sentence can do most of the work 
 	- There is a saying that people don’t remember books they remember sentences
@@ -81,29 +81,29 @@
 	- Especially if it’s a lucrative investment or a special skill
 - But there are limits to scaling
 	- “For every type of animal, there is the most convenient size and change in size inevitably carries with it a change of form.“ - JBS Haldane 
-- A most convenient size: proper state where things work well but break when you try to scale them to a different size or speed
+	- A most convenient size: proper state where things work well but break when you try to scale them to a different size or speed
 - The market nearly always reward your patience when you invest around 10 years or more
-- “Growth we now know all too well is not a strategy. It is a tactic and when on discipline growth become a strategy, we lost our way.” - Howard Schultz.
-- Push past the most convenient size of business and you realize that revenue my scale, but disappointed customers scale, faster
-- “It does not pay to try to get the business all at once. In the first place you can’t get it so a good deal of your money is thrown away.  In the second place if you did get it, the factory could not handle it.  And in the third place if you did get it, you could not hold it. A company that gets business too quickly act just about as a boy does who gets money too quickly”
-- People handle risk and responsibility and totally different ways when a group scales from 4 people to 100 million. 
-- Same for corporate culture  a management style that works brilliantly at a 10 person company can destroy 1000 person company
+- Push past the most convenient size of business and you realize that revenue might scale, but disappointed customers scale faster
+	- “Growth we now know all too well is not a strategy. It is a tactic and when on discipline growth become a strategy, we lost our way.” - Howard Schultz.
+- “It does not pay to try to get the business all at once. In the first place you can’t get it so a good deal of your money is thrown away.  In the second place if you did get it, the factory could not handle it.  And in the third place if you did get it, you could not hold it. A company that gets business too quickly act just about as a boy does who gets money too quickly” - Harvey Firestone(1926)
+- People handle risk and responsibility and totally different ways when a group scales from 4 people to 100 million.
+	- Same for corporate culture, a management style that works brilliantly at a 10 person company can destroy 1000 person company
 - Good idea sped up too fast quickly becomes a terrible idea
-- Most young trees spend their early years under the shade of their mother’s canopy. Limited sunlight means they grow slow slowly.  Slow growth, leads to dense hard wood.
-- Fast growth leads to soft wood that never had time to densify. 
-- Growth is good, but forced growth accelerated growth. Artificial growth tends to backfire.
-- “The greatest impediment to creativity is your impatience the almost inevitable desire to hurry up the process express something, and make a splash” - Robert Greene
+	- Most young trees spend their early years under the shade of their mother’s canopy. Limited sunlight means they grow slow slowly.  Slow growth, leads to dense hard wood.
+	- Fast growth leads to soft wood that never had time to densify. 
+- Growth is good, but forced growth, accelerated growth, artificial growth tends to backfire.
+	- “The greatest impediment to creativity is your impatience the almost inevitable desire to hurry up the process express something, and make a splash” - Robert Greene
 - Most great things in life from love to careers to investing gain their value from two things: patients and scarcity
 
 
 ### WHEN THE MAGIC HAPPENS : Stress focuses your attention in ways that good times can't
 - The biggest changes and the most important innovations don’t happen when everyone is happy and things are going well. They tend to occur during and after a terrible event.
-- When people saw cars and airplanes in their early years, their first thoughts were ‘can we mount the machine gun on it? Can we drop bombs out of it?’
 - Innovation has driven by incentives which come in many forms. 
 - Many big innovations in human history were heavily influenced by the military because they were trying to solve problems to win the war. 
-	- The problem have dealt with “ if we don’t figure this out right now we’re all going to die and out of Hitler might take over the world” this fuel, the most incredible problem-solving and innovation in the shortest period of time of the world has ever seen
+	- When people saw cars and airplanes in their early years, their first thoughts were ‘can we mount the machine gun on it? Can we drop bombs out of it?’
+	- The problem the military have dealt with is “if we don’t figure this out right now we’re all going to die and out of Hitler might take over the world”. This fueled the most incredible problem-solving and innovation in the shortest period of time the world has ever seen
 - The circumstances that tend to produce the biggest innovations are those that caused people to be worried, scared, and eager to move quickly because their future depends on it
-- Stress focuses your attention in ways good times can’t. It kills procrastination and indecision, taking what you need to get done and shoving it so close to your face that you have no choice, but to pursue it right now and to the best of your ability
+	- Stress focuses your attention in ways good times can’t. It kills procrastination and indecision, taking what you need to get done and shoving it so close to your face that you have no choice, but to pursue it right now and to the best of your ability
 - 1930s was by far the most productive and technologically progressive decade in US history
 	- It was the decade that transportation blossom in the US  
 	- Electrification also surged in the 1930s
@@ -116,7 +116,7 @@
 - When everything is great when the wealth is flush when the outlook is bright when the responsibility is low and threats appear gone, you get some of the worst dumbest, least productive human behavior
 - “Most successful people are just a walking, anxiety disorder, harness for productivity” - Andrew Wilkinson(entrepreneur)
 - “In my experience many of the most talented people I’ve met couldn’t be described as happy. In fact, there are probably more that could be described as tortured.” - Patrick O’Shaughnessy
-- No one cheers for hardship - nor should they - but we should recognize that it’s the most potent feel of problem-solving serving as both the root of what we enjoyed today and the seed of opportunity for what we enjoy tomorrow. 
+- No one cheers for hardship, but we should recognize that it’s the most potent fuel of problem-solving serving as both the root of what we enjoy today and the seed of opportunity for what we'll enjoy tomorrow
 
 
 #### ***comments***
@@ -129,4 +129,4 @@
 - p.100 군사의 발전으로 인해 발명된 것들의 길고 긴 리스트를 보니 인류는 전쟁에 미친 종족 같다. 비록 처음엔 군용으로 발명되었지만 대다수의 기술은 현재 다른 용도로 더 잘 쓰고 있다는 지점도 인류의 성향을 잘 보여주는 듯.
 
 #### ***food for thought***
-- 내가 맞다고 믿고 있었지만 돌이켜보니 말을 잘하는 사람의 설득이나 마케팅의 영향으로 그렇게 생각했던 경험이 있나요? 또는 반대로, 전달 방식이 서툴다는 이유로 좋은 의견을 무시했던 경험이 있나요?
+- 내가 맞다고 믿고 있었지만 돌이켜보니 말을 잘하는 사람의 설득이나 마케팅의 영향으로 그렇게 생각했던 경험이 있나요? 반대로, 전달 방식이 서툴다는 이유로 좋은 의견을 무시했던 경험이 있나요?
