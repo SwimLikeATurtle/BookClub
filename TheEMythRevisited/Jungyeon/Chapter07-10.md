@@ -3,7 +3,6 @@
 ### Chapter 7. The Turn-Key Revolution
 - Turn-Key Revolution is a way of doing business that has the power to dramatically transform any small business from a condition of chaos and disease to a condition of order, excitement, and continuous growth
 	- It is the ultimately balanced model of a business that works.
-The Franchise Phenomenon
 - Ray Kroc convinced Mac and Jim MacDonald to let him franchise their method. Later he went on to create the largest retail prepared food distribution system in the world.
 - the genius of McDonald’s isn’t franchising itself, the true genius of Ray Kroc’s McDonald’s is the Business Format Franchise.
 - If you compare less than 25 percent of franchises have been terminated in five years compared to 80-percent failure rate of independently owned businesses, and you can immediately understand the power of the Turn-Key Revolution
@@ -121,7 +120,8 @@ simply and finally create more life for everyone who comes into contact with the
 
 
 #### ***comments***
--p.110 비즈니스 프로세스 내 프로토타입을 만드는 부분은 요즘 DX나 AX를 위해 기업에서 하는 고민과 맞닿아 있는거 같다
--p.112 버거에 넣을 피클 위치까지 매뉴얼화 되어 있는 디테일에 놀람
--p.127 Burnt Child Syndrome을 예시로 드니까 이해가 딱 되네
--p.139 'a navy blue suit with a tie with red in it', glad it works for sales but it sounds like a fashion crisis in disguise
+- p.110 비즈니스 프로세스 내 프로토타입을 만드는 부분은 요즘 DX나 AX를 위해 기업에서 하는 고민과 맞닿아 있는거 같다
+- p.112 버거에 넣을 피클 위치까지 매뉴얼화 되어 있는 디테일에 놀람
+- p.127 Burnt Child Syndrome을 예시로 드니까 이해가 딱 되네
+- p.138 생각보다 여기서 제시하는 innovation의 기준이 요즘 기준으로 innovative하지 않아서 조금 당황했지만 오히려 좋아 ㅎㅎ
+- p.139 'a navy blue suit with a tie with red in it', glad it works for sales but it sounds like a fashion crisis in disguise
