@@ -44,17 +44,19 @@
 - Your Strategic Objective is a very clear statement of what your business has to ultimately do for you to achieve your Primary Aim.
 - Your business is a means rather than an end. Your Strategic Objective is not a business plan. It is a product of your Life Plan.
 - But unless your Business Strategy and Plan can be reduced to a set of simple and clearly stated standards, it will do more to confuse you than to help. Your Strategic Objective is just such a list of standards.
+- The first question you must always ask when creating standards for your Strategic Objective is: What will serve my Primary Aim?
 - Some of the standards that need to be included in your Strategic Objective.
-	- The First Standard: Money
+	1. The First Standard: Money
 		- How can you possibly know now what your business is going to produce in sales that far in the future? The answer is, you can’t! But it doesn’t matter. At the beginning of your business, any standards are better than no standards.
-- the first question you must always ask when creating standards for your Strategic Objective is: What will serve my Primary Aim?
-	- The Second Standard: An Opportunity Worth Pursuing
+	2. The Second Standard: An Opportunity Worth Pursuing
 		- Does the business I have in mind alleviate a frustration experienced by a large enough group of consumers to make it worth my while?
-		1) What Kind of Business Is One In?
+		
+		a) What Kind of Business Is One In?
 		- Most answers this questions with the commodity they are selling, not the product.
 			- The commodity is the thing your customer actually walks out with in his hand. The product is what your customer feels as he walks out of your business.
 			- The truth is, nobody’s interested in the commodity. People buy feelings.
-	2) Who Is My Customer?
+		
+		b) Who Is My Customer?
 		- Every business has a Central Demographic Model
 			- Demographics is the science of marketplace reality. It tells you who your customer is.
 	- When you ask, “Is this business an Opportunity Worth Pursuing?” the only way to tell is to determine how many selling opportunities you have (your customers’ demographics) and how successfully you can satisfy the emotional or perceived needs lurking there (your customers’ psychographics)
