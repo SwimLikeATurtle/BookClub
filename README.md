@@ -2,8 +2,8 @@
 
 ## Rules
 
-1. 매주 수요일 리뷰 세션 개최
-2. 매주 화요일까지 주어진 분량 읽고 내용 정리 및 PR 업로드
+1. 매주 화요일 리뷰 세션 개최
+2. 매주 월요일까지 주어진 분량 읽고 내용 정리 및 PR 업로드
 3. 내용 정리 시, 안건 1-2개 준비
 
 ## List
@@ -18,4 +18,5 @@
 | 7 | 아주 작은 습관의 힘 | 제임스 클리어 | 2026-05-07 ~ 2026-06-24 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162540640.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/AtomicHabits) |
 | 8 | 제로 투 원 | 피터 틸, 블레이크 매스터스 | 2026-07-01 ~ 2026-08-12 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/4808947529877.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/ZeroToOne) |
 | 9 | 불변의 법칙 | 모건 하우절 | 2026-08-13 ~ 2026-09-30 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791198517425.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/SameAsEver) |
-| 10 | 사업의 철학 | 마이클 거버 | 2026-10-01 ~  | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791193081167.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/TheEMythRevisited) |
+| 10 | 사업의 철학 | 마이클 거버 | 2026-10-01 ~ 2026-11-18 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791193081167.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/TheEMythRevisited) |
+| 11 | 창업가의 습관 | 이상훈 | 2026-11-19 ~  | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791191636154.jpg?t=2992188" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/EntrepreneurialHabits) |
